@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# :man_technologist: Hi 👋
+#  Hey 👋
 
 
 [![Linkedin: thomasalves](https://img.shields.io/badge/-Thomasalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomasalves11/)](https://www.linkedin.com/in/thomasalves11/)
